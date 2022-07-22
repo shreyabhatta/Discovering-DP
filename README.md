@@ -21,4 +21,21 @@
 - Longest Common Subsequence
 
 1. Longest Common Subsequence Problem
-2. 
+2. Longest Common Substring
+3. Longest Palindromic Subsequence
+4. Longest Repeating Subsequence
+5. Min # of deletion to make string a palindrome
+6. Min # of insertion and deletion to convert str a to b
+7. Minimum # of deletion in string to make a palindrome
+8. Print Longest Common Subsequence
+9. Print Shortest Common Supersequence
+10. Shortest Common Supersequence
+
+- Matrix Chain Multiplication
+
+1. MCM problem
+2. Palindrom Partition
+3. Boolean Parenthesization
+4. Scrambled String
+5. Egg drop problem
+
