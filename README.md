@@ -1,4 +1,5 @@
 # Dynamic-Programming
+Doing 30 questions in a 5 days marathon
 
 - 0-1 KnapSack
 
