@@ -39,7 +39,7 @@
 4. Scrambled String
 5. Egg drop problem
 
--DP in Trees
+- DP in Trees
 
 1. Diameter of a Binary tree
 2. Maximum path su from any node to any
